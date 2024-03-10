@@ -29,10 +29,6 @@ CIRCUIT DIAGRAM & BLOCK DIAGRAM:
 
 ![Capture](https://github.com/Abinash-karuna/finger-detection/assets/106005597/31926769-57ce-49ad-a1af-f87ca2ebc047)
 
-OUTPUT:
-![Uploading 3.PNG…]()
-
-
 APPLICATION:
 
   Home Automation
