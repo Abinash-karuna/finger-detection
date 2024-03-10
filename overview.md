@@ -30,16 +30,26 @@ CIRCUIT DIAGRAM & BLOCK DIAGRAM:
 ![Capture](https://github.com/Abinash-karuna/finger-detection/assets/106005597/31926769-57ce-49ad-a1af-f87ca2ebc047)
 
 OUTPUT:
+![Uploading 3.PNG…]()
+
 
 APPLICATION:
 
-Home Automation
-Traffic monitoring and surveillance
-Security and surveillance
-Automotive Lighting
-Healthcare and Accessibility
-Sign Language Interpretation
-Military and Secrete operation
+  Home Automation
+  Traffic monitoring and surveillance
+  Security and surveillance
+  Automotive Lighting
+  Healthcare and Accessibility
+  Sign Language Interpretation
+  Military and Secrete operation
+
+CONCLUSION
+
+  To sum up, computer vision technology-based smart light control represents a revolutionary development in lighting systems. This invention ensures energy efficiency, convenience, and customized experiences by using cameras and advanced algorithms to automatically adjust lighting based on changes in the surrounding environment and the presence of people.
+The ability to adjust lighting with simple hand gestures not only adds a touch of elegance but also improves user ease as we traverse an increasingly automated and networked environment.
+Furthermore, the technology's applicability across a wide range of fields, from healthcare and entertainment to education and art, demonstrates its versatility and potential influence.
+
+
 
 
 
